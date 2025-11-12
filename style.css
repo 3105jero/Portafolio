@@ -279,6 +279,13 @@ section{
     line-height: 1.7;
 }
 
+.botonhtml1{
+background-image:url("colour-hex-ABC6DB-1200-630-fb.png") ;
+font-size: 16px;
+border:none;
+border-radius: 8px;
+}
+
 .boton1{
 background-image:url("colour-hex-ABC6DB-1200-630-fb.png") ;
 font-size: 16px;
